@@ -1,0 +1,6 @@
+{
+  "name": "AutoDoc Peugeot - Gestión Plan de Ahorro",
+  "description": "Sistema automatizado para procesamiento de legajos de Plan de Ahorro Peugeot, extracción OCR/documental, validación cruzada y generación de Minuta de Ventas, Planilla de Rendición y PDF consolidado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
